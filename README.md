@@ -9,20 +9,20 @@
 
 | 币种 | 价格 | 24h 涨跌 |
 |---|---|---|
-| BTC 比特币 | $76,046 | -5.8% |
-| ETH 以太坊 | $2,237 | -8.0% |
-| SOL | $90 | -6.2% |
+| BTC 比特币 | $75,551 | -6.0% |
+| ETH 以太坊 | $2,220 | -8.2% |
+| SOL | $89 | -6.8% |
 
 ## 😨 恐惧贪婪指数：28（恐惧）
 0 = 极度恐惧，100 = 极度贪婪。它是情绪温度计，不是买卖信号。
 
 ## 📰 今日头条（中文）
 
-- [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Core Scientific to quit Bitcoin mining by year-end as AI business surges）
+- [币安遭受攻击后，加密货币交易所宣传冷存储比率](https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Crypto exchanges tout cold storage ratios after Binance attack）
+- [随着人工智能业务激增，Core Scientific 将在年底前退出比特币挖矿](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Core Scientific to quit Bitcoin mining by year-end as AI business surges）
 - [这是今天加密货币领域发生的事情](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Here’s what happened in crypto today）
-- [American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI](https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI）
-- [Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ](https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ）
-- [Crypto ally French Hill wins reelection but set to lose House chair](https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Crypto ally French Hill wins reelection but set to lose House chair）
+- [随着竞争对手转向人工智能，美国比特币的1.26 $利润掩盖了采矿压力](https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI）
+- [随着黑客激增，亚洲加密货币交易所做好准备：亚洲快报](https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ）
 
 ---
 ⚠️ 只发数据，非投资建议。本仓/频道不喊单、不带单、不承诺收益。
