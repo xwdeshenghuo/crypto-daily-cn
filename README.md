@@ -1,6 +1,6 @@
 # 📊 币圈行情日报（中文）| Crypto Daily CN
 
-**2026-11-05 更新** — 价格、情绪指数、行业头条，三分钟看完。
+**2026-11-06 更新** — 价格、情绪指数、行业头条，三分钟看完。
 
 ## 📲 每天推送到 Telegram
 👉 **币圈线报局 https://t.me/CryptoAlphaBrief** — 每日 10:07 / 19:07 更新，只报数据，不喊单、不带单。
@@ -9,20 +9,20 @@
 
 | 币种 | 价格 | 24h 涨跌 |
 |---|---|---|
-| BTC 比特币 | $76,027 | -5.6% |
-| ETH 以太坊 | $2,250 | -7.5% |
-| SOL | $89 | -6.6% |
+| BTC 比特币 | $76,046 | -5.8% |
+| ETH 以太坊 | $2,237 | -8.0% |
+| SOL | $90 | -6.2% |
 
-## 😨 恐惧贪婪指数：50（中性）
+## 😨 恐惧贪婪指数：28（恐惧）
 0 = 极度恐惧，100 = 极度贪婪。它是情绪温度计，不是买卖信号。
 
 ## 📰 今日头条（中文）
 
-- [欧洲最大的资产管理公司 Amundi 在以太坊上代币化股票指数基金](https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum）
-- [上野数字银行倒闭后巴拉圭总统辞职](https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Paraguay president resigns after collapse of Ueno digital bank）
-- [美国股市抹去选举涨幅，比特币暴跌 6% 至 7 周低点](https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Bitcoin crashes 6% to 7-week low as US stocks erase election gains ）
+- [Core Scientific to quit Bitcoin mining by year-end as AI business surges](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Core Scientific to quit Bitcoin mining by year-end as AI business surges）
 - [这是今天加密货币领域发生的事情](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Here’s what happened in crypto today）
-- [唯链首席执行官表示，区块链是人工智能代理信任的“完美解决方案”](https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says）
+- [American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI](https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI）
+- [Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ](https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ）
+- [Crypto ally French Hill wins reelection but set to lose House chair](https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Crypto ally French Hill wins reelection but set to lose House chair）
 
 ---
 ⚠️ 只发数据，非投资建议。本仓/频道不喊单、不带单、不承诺收益。
