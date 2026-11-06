@@ -9,20 +9,20 @@
 
 | 币种 | 价格 | 24h 涨跌 |
 |---|---|---|
-| BTC 比特币 | $75,551 | -6.0% |
-| ETH 以太坊 | $2,220 | -8.2% |
-| SOL | $89 | -6.8% |
+| BTC 比特币 | $75,994 | -5.3% |
+| ETH 以太坊 | $2,234 | -7.6% |
+| SOL | $90 | -6.8% |
 
 ## 😨 恐惧贪婪指数：28（恐惧）
 0 = 极度恐惧，100 = 极度贪婪。它是情绪温度计，不是买卖信号。
 
 ## 📰 今日头条（中文）
 
-- [币安遭受攻击后，加密货币交易所宣传冷存储比率](https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Crypto exchanges tout cold storage ratios after Binance attack）
-- [随着人工智能业务激增，Core Scientific 将在年底前退出比特币挖矿](https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Core Scientific to quit Bitcoin mining by year-end as AI business surges）
-- [这是今天加密货币领域发生的事情](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Here’s what happened in crypto today）
-- [随着竞争对手转向人工智能，美国比特币的1.26 $利润掩盖了采矿压力](https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI）
-- [随着黑客激增，亚洲加密货币交易所做好准备：亚洲快报](https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Asian crypto exchanges batten down the hatches as hacks surge: Asia Express  ）
+- [GOPAX 停止加密货币交易和提款，将所有资产转移至冷存储](https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：GOPAX halts crypto trading, withdrawals to move all assets to cold storage）
+- [Binance 的 $6.3B 黑客事件引发了对热钱包保护措施的质疑](https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Binance’s $6.3B hack leaves questions over hot wallet safeguards）
+- [Zcash NU7 升级上线，12,224 ZEC 滞留在 Sprout 池中](https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool）
+- [Hyperliquid Strategies 寻求永续经营者的期货注册](https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Hyperliquid Strategies seeks futures registration for perps ）
+- [随着选举收益蒸发，比特币、以太币 ETF 资金流出 5.3 亿美元](https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Bitcoin, Ether ETFs post $530M outflows as election gains evaporate）
 
 ---
 ⚠️ 只发数据，非投资建议。本仓/频道不喊单、不带单、不承诺收益。
