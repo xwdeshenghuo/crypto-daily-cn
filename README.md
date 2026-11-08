@@ -9,20 +9,20 @@
 
 | 币种 | 价格 | 24h 涨跌 |
 |---|---|---|
-| BTC 比特币 | $75,713 | -0.3% |
-| ETH 以太坊 | $2,232 | -0.6% |
-| SOL | $89 | -1.2% |
+| BTC 比特币 | $75,835 | -0.2% |
+| ETH 以太坊 | $2,234 | -0.5% |
+| SOL | $89 | -0.9% |
 
 ## 😨 恐惧贪婪指数：28（恐惧）
 0 = 极度恐惧，100 = 极度贪婪。它是情绪温度计，不是买卖信号。
 
 ## 📰 今日头条（中文）
 
+- [阿姆斯特丹抗议者闯入微软数据中心施工现场：报告](https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Amsterdam protesters break into Microsoft data center construction site: Report）
+- [报告称，币安财务总监Kaiser Ng将离开公司](https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Binance’s  finance chief Kaiser Ng to leave company, report says）
 - [这是今天加密货币领域发生的事情](https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Here’s what happened in crypto today）
 - [前 FBI 反情报特工窃取了近 250 万美元的加密货币](https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Ex-FBI counterintelligence agent stole almost $2.5M in crypto）
 - [比特币持有者已收到电子现金 — 您可以用它做什么？](https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Bitcoin holders have received eCash — What can you do with it?）
-- [美国因伊朗关系制裁加拿大货币兑换公司](https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：US sanctions Canadian money-exchange firms over Iran ties）
-- [选举民意调查发布前出现可疑的预测市场活动：纽约时报](https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)（原文：Suspicious prediction market activity seen before election poll release: NYT）
 
 ---
 ⚠️ 只发数据，非投资建议。本仓/频道不喊单、不带单、不承诺收益。
